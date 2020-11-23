@@ -21,3 +21,5 @@ code/html/_*nav.html
 !code/html/_community_nav.html
 !code/html/_top_level_nav.html
 code/html/news.html
+*.sublime-workspace
+log/capistrano.log
